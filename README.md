@@ -1,2 +1,2 @@
 # C-BANKING-SYSTEM
-  A Banking System written in C++
+  A Banking System Program written in C++
