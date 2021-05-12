@@ -1,2 +1,2 @@
 # C++ Banking System Project
-  A Banking System Program written in C++
+  A Menu Driven Banking System Program written in C++
